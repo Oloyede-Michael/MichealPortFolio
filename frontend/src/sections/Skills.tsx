@@ -229,22 +229,22 @@ const Skills = () => {
               <div className="space-y-12">
                 {[
                   {
-                    year: '2023 - Present',
-                    role: 'Senior Frontend Developer',
-                    company: 'Tech Innovations Inc.',
-                    description: 'Leading frontend development for enterprise applications, mentoring junior developers, and implementing cutting-edge technologies.'
+                    year: '2025 - Present',
+                    role: 'Back-end Engineer (Skill-Based Team)',
+                    company: 'Cowrywise',
+                    description: 'Contributed to backend engineering tasks as part of Cowrywise skill-based team, focusing on building and maintaining Django and Node.js based data models.  '
                   },
                   {
-                    year: '2021 - 2023',
-                    role: 'Full Stack Developer',
-                    company: 'Digital Solutions Agency',
-                    description: 'Developed full-stack applications for diverse clients, from startups to Fortune 500 companies.'
+                    year: '2024 - 2025',
+                    role: 'Backend Developer',
+                    company: 'FLOO CRM',
+                    description: 'Designed and implemented Django models to structure and manage application data effectively'
                   },
                   {
-                    year: '2019 - 2021',
-                    role: 'Junior Web Developer',
-                    company: 'Creative Studio',
-                    description: 'Started my professional journey building responsive websites and learning modern web technologies.'
+                    year: '2022 - 2023',
+                    role: 'Junior Python Developer',
+                    company: 'Lozenge Tech Hub',
+                    description: 'Started my professional journey building python based applications and Learning and understanding Data Structures and Algorithms'
                   }
                 ].map((item, index) => (
                   <div 
